@@ -22,7 +22,7 @@ In the analysis we were comparing three different types of cities: urban, suburb
 * The greatest percentage difference that exists between these three figures, is the amount of drivers in each city type
 * Urban cities account for a little bit over 80% of the total drivers working throughout January 2019 to May 2019
 
-![Screenshot]()
+![Screenshot](pyber_summary.png)
 
 * This figure shows that greater demand influences the cost per fare to decrease, as well as, the average fare per driver.
 * Riders in rural cities have to pay about $10 more compared to urban cities, probably impacting the amount of riders that exist in rural areas.
